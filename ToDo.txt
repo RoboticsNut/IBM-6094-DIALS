@@ -1,0 +1,35 @@
+Implement Python documentation features within python code.
+
+Learn about Python self documenting code features.
+
+Implement Dial objecet to bring code into Object paridgm.
+
+Implement Finate state machine for dial logic.
+
+Add OSC listener to configure dial features:
+1. granularity
+2. counts per rotation
+3. signed/unsigned counting.
+4. scaling factors from dials
+5. ability to reset dials
+6. nonlinear scaling of dial scalar value.
+7. acceleration.
+8. dial self test / identity function
+
+Diagram of dial control topology with OSC
+
+command line switch that invokes dial test mode with out OSC support
+
+ability to pass OSC port pramerers for input/outgoing connections from command line invocation.
+
+file with historical description of dials & buttons interfaces
+
+images of my dials and buttons boxes
+
+video of dials code in operation
+
+references to other books and materials describing heir use and function.
+
+
+
+
