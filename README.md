@@ -1,2 +1,3 @@
 # IBM-6094-DIALS
+IBM 6094 010 DIALS
 PYTHON IBM Dials interface
